@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **web programming, DSA and OOP**
 
-- 📫 How to reach me **tehreem.zafar06@gmail.com**
+- 📫 Reach me @ **tehreem.zafar06@gmail.com**
 
 - ⚡ Fun fact **I write poems**
 
