@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/tehreemcodes)
 <h1 align="center">Hello 👋, I'm Tehreem Zafar</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 - 🌱 I’m currently learning **DevOps**
 
